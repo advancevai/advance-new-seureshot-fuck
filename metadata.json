@@ -1,0 +1,8 @@
+{
+  "name": "PRO X SURESHOT · AI Prediction Bot",
+  "description": "AI-powered WinGo 30S prediction bot with pattern recognition, ensemble analysis, and real-time period tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
